@@ -1,3 +1,70 @@
 .body{
     font-family: 'Open Sans', sans-serif;
 }
+.banner-container{
+    background-color: #182145;
+}
+
+.banner-column{
+    background-color: lightblue;
+}
+.navbar-container{
+    background-color: #31C984;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.about-container{
+    background-color: lightgrey;
+}
+
+.education-container{
+
+}
+
+.bg-redtype{
+    background-color: palevioletred;
+}
+
+.bg-redtype:hover{
+    background-color:darkslateblue important ;
+}
+.redtype-color{
+    color: plum;
+}
+.circle-edu{
+    background-color: slateblue;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.project-container{
+    background-color: steelblue;
+}
+
+.form-container{
+    background-color: darkgray;
+}
+
+.inner-form{
+    background-color: darkgray;
+}
+
+.footer{
+    background-color: darkslategray;
+}
+
+.circle{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: floralwhite;
+    font-size: 40px;
+    text-align: center;
+}
+
+.circle:hover{
+    background-color: gold;
+}
